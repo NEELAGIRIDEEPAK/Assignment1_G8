@@ -2,6 +2,7 @@ package com.Assignment1;
 
 public class Primenumber {
 	public static void main(String[] args) {
+
 		// TODO Auto-generated method stub
 		int num = 3;
 		int count = 0;
@@ -15,5 +16,8 @@ public class Primenumber {
 		} else {
 			System.out.println("3 is a Prime number");
 		}
+
+		System.out.println("given number is prime or not");
+
 	}
 }
