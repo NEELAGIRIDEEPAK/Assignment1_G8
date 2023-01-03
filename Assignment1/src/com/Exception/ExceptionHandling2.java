@@ -32,7 +32,7 @@ public class ExceptionHandling2 {
 				}
 			}
 			catch(Exception e){
-					System.out.println("i am an exception");
+					System.out.println("i am an Exception");
 				}
 			if(num / 1 != 0) {
 				System.out.println("it is a number");
@@ -45,7 +45,7 @@ public class ExceptionHandling2 {
 			}
 		}
 		catch(Exception e){
-			System.out.println("i am an exception");
+			System.out.println("i am an Exception");
 		}
 	}
 
